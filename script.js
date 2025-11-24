@@ -8,7 +8,7 @@ const programs = [
     "Doctor of Philosophy Major in Technology Education Management",
     "Master of Arts in Language and Literacy Education",
     "Master of Arts in Education",
-    "Master in Technician Education",
+    "Master in Technology Education",
     // COLLEGE OF ENGINEERING
     "Bachelor of Science in Mechanical Engineering",
     "Bachelor of Science in Electrical Engineering",
@@ -24,10 +24,10 @@ const programs = [
     "Bachelor of Technical-Vocational Teacher Education Major in Food and Service Management",
     "Bachelor of Technical-Vocational Teacher Education Major in Garments, Fashion and Design",
     // COLLEGE OF TECHNOLOGY
-    "Bachelor in Food Processing and Service Technology",
-    "Bachelor of Industrial Technology (BIT, SECTION A)",
-    "Bachelor of Industrial Technology (BIT, SECTION B)",
-    "Bachelor of Industrial Technology (BIT, SECTION C)",
+    "Food Processing and Service Technology",
+    "Bachelor of Industrial Technology Food and Beverage Preparation and Service Management (BIT, SECTION A)",
+    "Bachelor of Industrial Technology Food and Beverage Preparation and Service Management(BIT, SECTION B)",
+    "Bachelor of Industrial Technology Food and Beverage Preparation and Service Management (BIT, SECTION C)",
     "Diploma in Automotive Technology",
     "Diploma in Civil Technology",
     "Diploma in Electrical Technology",
